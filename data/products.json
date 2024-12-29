@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Smartphone",
+      "description": "Latest model with 5G connectivity.",
+      "image": "smartphone.jpg",
+      "price": "$999",
+      "category": "electronics"
+    },
+    {
+      "name": "Laptop",
+      "description": "High-performance laptop for professionals.",
+      "image": "laptop.jpg",
+      "price": "$1299",
+      "category": "electronics"
+    },
+    {
+      "name": "Watch",
+      "description": "Stylish analog watch with a leather strap.",
+      "image": "watch.jpg",
+      "price": "$199",
+      "category": "fashion"
+    },
+    {
+      "name": "Earbuds",
+      "description": "Great sounded earbuds.",
+      "image": "earbuds.jpeg",
+      "price": "$225",
+      "category": "electronics"
+    },
+    {
+      "name": "Blazor",
+      "description": "Stylish Black leather Blazor.",
+      "image": "blazor.jpg",
+      "price": "$99",
+      "category": "fashion"
+    },
+    {
+      "name": "Tshirt",
+      "description": "Cotton T-shirt available in various sizes.",
+      "image": "tshirt.jpg",
+      "price": "$89",
+      "category": "fashion"
+    }
+
+
+  ]
+  
